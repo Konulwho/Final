@@ -21,10 +21,10 @@ It consists of a small music web application :musical_note:. Developed with the 
 **:singer: Each artist has a personalized profile with the information of their albums and most popular songs, and at the end a section of related artists**
 ![Each Artist has a Personalized Profile](demo/each_Artist_Maoc_Music.gif)
 
-**You can add songs to favorites:heart: and playlists:minidisc: (:construction: this feature is in production)**
+**You can add songs to favorites:heart: and playlists:minidisc: **
 ![Add Song to Favorites](demo/add_fav_Maoc_Music.gif)
 
-**:eye_speech_bubble: You can follow artists (:construction: this feature is in production)**
+**:eye_speech_bubble: You can follow artists **
 ![Follow Artist](demo/follow_Maoc_Music.gif)
 
 

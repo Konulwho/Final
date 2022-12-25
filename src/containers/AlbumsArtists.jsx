@@ -4,7 +4,7 @@ import { bindActionCreators } from "redux";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faChevronLeft,
-  faChevronRight,a
+  faChevronRight,
 } from "@fortawesome/free-solid-svg-icons";
 
 import fetchAlbumsAction from "../api/fecthAlbumsArtist";
